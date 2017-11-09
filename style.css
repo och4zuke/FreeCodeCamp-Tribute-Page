@@ -1,0 +1,25 @@
+body {
+  color: black;
+  margin-top: 30px;  
+}
+
+section#mainhead .img-responsive{
+    margin: 30px auto;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 30px 30px 30px 30px;
+}
+
+.boxnotes {
+    padding: 0 50px 10px 10px;
+}
